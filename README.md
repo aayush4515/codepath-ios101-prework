@@ -19,9 +19,9 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 ### My favorite apps:
-- PUBG Mobile: Great battle royal game, great graphics, can play with teammates and have live conversation
-- Reddit: Can read and post insights on various topics anonymously, great UI, I really like the subreddits concept
-- Discord: Servers and Channels, UI, very straightforward concept but very useful tool
+- **PUBG Mobile**: Great battle royal game, great graphics, can play with teammates and have live conversation
+- **Reddit**: Can read and post insights on various topics anonymously, great UI, I really like the subreddits concept
+- **Discord**: Servers and Channels, UI, very straightforward concept but very useful tool
 
 ### I would like to build...
 An app that tracks stress levels. Every time someone logs into their phone, it would take a snapshot of their eyes using the front camera, and use machine learning models to determine stress levels by analyzing eyelids, dark circles and other eye-related features by comparing them with data already available. It would track stress levels over a period of time and send out reminders to pause using phone, or make some other plan to reduce stress levels, like sleeping more etc...
