@@ -2,7 +2,7 @@
 
 Submitted by: **Aayush Acharya**
 
-**My First IOS App** is an app that... helps me practice building IOS applications 
+**My First IOS App** is an app that helps me practice building IOS applications 
 
 Time spent: **1** hours spent in total
 
@@ -20,6 +20,13 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+### My favorite apps:
+- PUBG Mobile: Great battle royal game, great graphics, can play with teammates and have live conversation
+- Reddit: Can read and post insights on various topics anonymously, great UI, I really like the subreddits concept
+- Discord: Servers and Channels, UI, very straightforward concept but very useful tool
+
+### I would like to build...
+dskjd
 
 ## Notes
 
