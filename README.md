@@ -26,7 +26,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Discord: Servers and Channels, UI, very straightforward concept but very useful tool
 
 ### I would like to build...
-dskjd
+An app that track my stress levels. Every time I log into my phone, it would take a snapshot of my eyes using the front camera, and use machine learning models to determine stress levels by analyzing eyelids, dark circles and other eye-related features by comparing them with data already available. It would track stress levels over a period of time and send out reminders to pause using phone, or make some other plan to reduce stress levels, like sleeping more etc...
 
 ## Notes
 
